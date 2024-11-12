@@ -22,3 +22,7 @@ This project is a PDF generation service built using **Spring Boot** and **Thyme
    ```bash
    git clone https://github.com/baranidharan-b/pdf-generation-service.git
    cd pdf-generation-service
+
+Output:
+![image](https://github.com/user-attachments/assets/cdf2366e-7a2a-4d58-81c0-66e9b8db97e0)
+
